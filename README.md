@@ -30,11 +30,6 @@ Click clone or download then download the .zip file. Extract the contents of the
 
 ## Prerequisites
 
-### Update Environment File
-
-- Within the project folder, rename envSAMPLE.yml to env.yml
-- Replace the apiKey variable's value to a key of your choosing.
-
 ### Install Serverless Framework
 
 You will need the Serverless framework to use this code.
